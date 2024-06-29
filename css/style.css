@@ -55,7 +55,7 @@ p {
     margin-top: 0;
 }
 
-@media screen and (min-width : 1024)
+@media screen and (min-width : 1024px)
 {
     body {
         font-size: 1.5rem;
@@ -300,7 +300,7 @@ a{
 .input-group .input {
     border:0;
     flex-grow: 1;
-    padding: 1.5rem 2;
+    padding: 1.5rem 2rem;
     width: 0;
 }
 
